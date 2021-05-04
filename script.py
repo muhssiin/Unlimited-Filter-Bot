@@ -10,7 +10,7 @@ See <i>/help</i> for commands and more details.</b>
 
 
     HELP_MSG = """
-<i>Add me as admin in your group and start filtering :)</i>
+<i>Admin in our group to start filtering :)</i>
 
 
 <b>Basic Commands;</b>
